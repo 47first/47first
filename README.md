@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @47first
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning 'How to use Git Bash', 'HLSL Shading'
+- 🌱 I’m currently learning 'HLSL Shading'
 - 💞️ I’m not looking to collaborate ...
 - 📫 How to reach me: https://vk.com/pendosnya
 
