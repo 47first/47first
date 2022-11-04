@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @47first
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning 'HLSL Shading'
+- 🌱 I’m currently learning 'Unity Netcode'
 - 💞️ I’m not looking to collaborate ...
 - 📫 How to reach me: https://vk.com/89yearsold
 
