@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 'Unity Netcode'
 - 💞️ I’m not looking to collaborate ...
 - 📫 How to reach me: https://vk.com/89yearsold
+- 🎮 My itch.io page: https://47first.itch.io/
 
 <!---
 47first/47first is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
