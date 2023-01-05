@@ -20,7 +20,6 @@ Welcome to @47first's page
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠧⡀⠀⠈⠻⣿⣶⠿⣿⡿⠟⠁⠀⣀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⠠⣶⣾⢻⠒⡟⣷⣿⠉⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
-<h1></h1>
 <h2 align="center">How to reach me</h2>
 <div align="center">
 ✉ My vk.com page: https://vk.com/89yearsold ✉<br/>
