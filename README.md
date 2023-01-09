@@ -2,7 +2,7 @@
 👒Welcome to @47first's page👒
 </h1>
 <div align="center">
-<img  width="45%"  src="https://ph.garmin.com/minisite/instinct/instinct-onepiece/images/onepiece-product-chopper.png"  alt="Material Bread logo">
+<img  width="80%"  src="./ChopperAndWPM.svg"  alt="Material Bread logo">
 </div>
 <h2 align="center">🔎How to reach me🔎</h2>
 <div align="center">
