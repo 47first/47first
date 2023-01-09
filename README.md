@@ -1,5 +1,5 @@
 <div align="center">
-<img  style="width: 90%;" src="./ConsoleChopper.svg"  alt="Material Bread logo">
+<img  style="width: 80%;" src="./ConsoleChopper.svg"  alt="Material Bread logo">
 </div>
 <h2 align="center">🔎How to reach me🔎</h2>
 <div align="center">
