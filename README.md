@@ -3,8 +3,8 @@
 </div>
 <br/><br/>
 <div align="center" width="700px">
-<img  style="width: 120px;" src="./itchioRef.svg">
-<img  style="width: 120px;" src="./vkLogo.svg">
+<img  style="width: 70px;" src="./itchioLogo.svg">
+<img  style="width: 70px;" src="./vkLogo.svg">
 </div>
 <h2 align="center">🔎How to reach me🔎</h2>
 <div align="center">
