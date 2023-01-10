@@ -1,5 +1,6 @@
 <div align="center">
-<img  style="width: 600px;" src="./Notepad.svg">
+<img  style="width: 600px;" src="./Notepad.svg"> <br/><br/>
+<img  style="width: 600px;" src="./videoPlayer.svg">
 </div>
 <br/><br/>
 <div align="center" width="700px">
